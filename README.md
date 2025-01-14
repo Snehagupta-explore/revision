@@ -1,2 +1,2 @@
 # revision
-1st revision of terminals
+1st revision of terminals.
